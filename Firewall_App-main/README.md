@@ -44,7 +44,7 @@ Current dependencies:
 configparser: For parsing rule files.
 Setup Instructions
 Clone the repository:
-git clone https://github.com/mardini2/Firewall_App
+git clone https://github.com/mohiniu4/Firewall
 cd <repository-folder>
 
 Install dependencies:
